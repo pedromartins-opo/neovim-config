@@ -1,0 +1,6 @@
+require("pmartins.plugins-setup")
+require("pmartins.core.options")
+require("pmartins.core.keymaps")
+require("pmartins.core.colorscheme")
+require("pmartins.plugins.nvim-tree")
+require("pmartins.plugins.lualine")
