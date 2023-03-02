@@ -1,5 +1,4 @@
-# neovim-config
-My neovim configuration
+# My neovim configuration files  ⌨️
 
 Install neovim
 ```bash
